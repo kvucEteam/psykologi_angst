@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<wrap>
+
+	<runde>
+		<spm
+		tekst="Et livsvilkår er "
+		korrekt="2"
+		>
+			<svar value="Livets vilkårligheder"/>
+			<svar value="Nødvendigt for at leve"/>
+			<svar value="Omstændigheder vi alle er underlagt"/>
+		</spm>
+		<spm
+		tekst="Er angst et livsvilkår"
+		korrekt="0"
+		>
+			<svar value="ja"/>
+			<svar value="nej"/>
+			<svar value="både ja og nej"/>
+		</spm>
+		<spm
+		tekst="Risikosamfundet betyder"
+		korrekt="1"
+		>
+			<svar value="At vi alle må løbe en risiko"/>
+			<svar value="At det er forbundet med risici at leve"/>
+			<svar value="At der ikke er tale om nogen risiko mere"/>
+		</spm>
+		<spm
+		tekst="De farer, som vi udsættes for i dag"
+		korrekt="0"
+		>
+			<svar value="Er mindre håndgribelige"/>
+			<svar value="Er mere håndgribelige"/>
+			<svar value="Er lige så håndgribelige som tidligere"/>
+		</spm>
+		<spm
+		tekst="Giddens taler om det senmoderne samfund, dermed mener han"
+		korrekt="2"
+		>
+			<svar value="at samfundet er moderne"/>
+			<svar value="at samfundet er umoderne"/>
+			<svar value="at samfundet er senere end det moderne samfund"/>
+		</spm>
+		<spm
+		tekst="Udlejring af sociale relationer betyder"
+		korrekt="1"
+		>
+			<svar value="at de sociale relationer foregår uden for"/>
+			<svar value="at de sociale relationer foregår udenfor familien"/>
+			<svar value="at de sociale relationer foregår indenfor familien"/>
+		</spm>
+		<spm
+		tekst="Når børn passes på institution, så er det"
+		korrekt="0"
+		>
+			<svar value="udlejring af sociale relationer"/>
+			<svar value="indlejring af sociale relationer"/>
+			<svar value="aflejring af sociale relationer"/>
+		</spm>
+		<spm
+		tekst="Globalisering betyder"
+		korrekt="1"
+		>
+			<svar value="at vi kan rejse til verdens ende på kort tid"/>
+			<svar value="at der ikke er nogen sammenhæng mellem tid og sted"/>
+			<svar value="at tid og sted er vigtigere end nogen sinde"/>
+		</spm>
+		<spm
+		tekst="Refleksivitet betyder"
+		korrekt="2"
+		>
+			<svar value="at vi handler mere pr refleks"/>
+			<svar value="at vi er blevet mere smidige i en globaliseret hverdag"/>
+			<svar value="at vi tænker mere over tingene"/>
+		</spm>
+		<spm
+		tekst="Frie valg vil sige"
+		korrekt="0"
+		>
+			<svar value="at vi selv kan vælge hvilken tandpasta vi vil bruge"/>
+			<svar value="at vi frit kan bestemme alt"/>
+			<svar value="at friheden er en mulighed vi kan bruge efter behov"/>
+		</spm>
+		<spm
+		tekst="Frisættelse betyder"
+		korrekt="1"
+		>
+			<svar value="at blive arbejdsløs"/>
+			<svar value="at blive sat fri til at vælge"/>
+			<svar value="at blive sat på fri fod"/>
+		</spm>
+		<spm
+		tekst="Angst for friheden handler om"
+		korrekt="0"
+		>
+			<svar value="at vi er bange for at vælge"/>
+			<svar value="at vi er bange for angsten"/>
+			<svar value="at vi er bange for at slippe os selv fri"/>
+		</spm>
+		<spm
+		tekst="Eksistentialisterne mener"
+		korrekt="0"
+		>
+			<svar value="at vi har frihed til at vælge"/>
+			<svar value="at vi ikke har frihed til at vælge"/>
+			<svar value="at de fleste valg allerede er taget for én"/>
+		</spm>
+	</runde>
+</wrap>

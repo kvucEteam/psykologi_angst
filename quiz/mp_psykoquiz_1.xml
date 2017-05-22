@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<wrap>
+
+	<runde>
+		<spm
+		tekst="Hvad er sjovt.... ?"
+		korrekt ="2"
+		>
+			<svar value="Det forhold at vi i det senmoderne samfund kan have kontakt til vores sociale omgangskreds, selvom vi ikke befinder os på samme sted (rum) på samme tid."/>
+			<svar value="Det forhold at det i det senmoderne samfund ikke er muligt at være sammen med vores nærmeste omgangskreds på samme sted (rum) og tid."/>
+			<svar value="Det forhold at man i det senmoderne samfund kan rejse individuelt med moderne transportmidler, så man ikke længere er afhængig af sine naboer."/>
+		</spm>
+		<spm
+		tekst="’Udlejring af sociale relationer’ refererer til?"
+		korrekt ="1"
+
+		>
+			<svar value="Det forhold at mange sociale relationer i dag foregår med hjælp af tekniske hjælpemidler som mobiltelefon og internet" />
+			<svar value="Det forhold at mange omsorgsopgaver (f. eks. børnepasning og ældrepleje), som tidligere blev løst i familierne, i dag er overtaget af det offentlige og udføres af professionelle."/>
+			<svar value="Det forhold at mange vurderer deres forhold til andre mennesker som noget, der skal kunne betale sig og give økonomisk eller følelsesmæssigt overskud."/>
+		</spm>
+			<spm
+		tekst="’Udlejring af sociale relationer’ refererer til?"
+		korrekt ="1"
+
+		>
+			<svar value="Det forhold at mange sociale relationer i dag foregår med hjælp af tekniske hjælpemidler som mobiltelefon og internet" />
+			<svar value="Det forhold at mange omsorgsopgaver (f. eks. børnepasning og ældrepleje), som tidligere blev løst i familierne, i dag er overtaget af det offentlige og udføres af professionelle."/>
+			<svar value="Det forhold at mange vurderer deres forhold til andre mennesker som noget, der skal kunne betale sig og give økonomisk eller følelsesmæssigt overskud."/>
+		</spm>
+			<spm
+		tekst="’Udlejring af sociale relationer’ refererer til?"
+		korrekt ="1"
+
+		>
+			<svar value="Det forhold at mange sociale relationer i dag foregår med hjælp af tekniske hjælpemidler som mobiltelefon og internet" />
+			<svar value="Det forhold at mange omsorgsopgaver (f. eks. børnepasning og ældrepleje), som tidligere blev løst i familierne, i dag er overtaget af det offentlige og udføres af professionelle."/>
+			<svar value="Det forhold at mange vurderer deres forhold til andre mennesker som noget, der skal kunne betale sig og give økonomisk eller følelsesmæssigt overskud."/>
+		</spm>
+	</runde>
+</wrap>

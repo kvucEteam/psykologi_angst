@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<wrap>
+
+	<runde>
+		<spm
+		tekst="Angst er ikke"
+		korrekt="2"
+		>
+			<svar value="En overlevelsesmekanisme"/>
+			<svar value="En følelse"/>
+			<svar value="Et tegn på svaghed"/>
+			<svar value="Ubegrundet eller begrundet"/>
+		</spm>
+		<spm
+		tekst="Frygt er"
+		korrekt="1"
+		>
+			<svar value="forfærdeligt"/>
+			<svar value="en begrundet angst"/>
+			<svar value="en ubegrundet angst"/>
+			<svar value="ikke nødvendig i det moderne samfund"/>
+		</spm>
+		<spm
+		tekst="Når du skal fremlægge foran klassen kan du føle angst, fordi"
+		korrekt="1"
+		>
+			<svar value="du er bange for at miste deres tillid"/>
+			<svar value="du er bange for, hvad de andre skal tænke om dig"/>
+			<svar value="du er bange for ikke at kunne leve op til de krav, du stiller til dig selv"/>
+			<svar value="du er bange for at møde en tiger"/>
+		</spm>
+		<spm
+		tekst="Panikangst handler om"
+		korrekt="3"
+		>
+			<svar value="at tænke før man handler"/>
+			<svar value="at flygte fra problemerne"/>
+			<svar value="ikke at gå i panik"/>
+			<svar value="at handle før man tænker"/>
+		</spm>
+		<spm
+		tekst="Adskillelsesangst kaldes også"
+		korrekt="2"
+		>
+			<svar value="opløsningsangst"/>
+			<svar value="skilsmisseangst"/>
+			<svar value="separationsangst"/>
+			<svar value="segregationsangst"/>
+		</spm>
+		<spm
+		tekst="Separationsangst opleves første gang i"
+		korrekt="0"
+		>
+			<svar value="8-mdrs alderen"/>
+			<svar value="8 års alderen"/>
+			<svar value="18 års alderen"/>
+			<svar value="80 års alderen"/>
+		</spm>
+		<spm
+		tekst="Omverdensangst handler om"
+		korrekt="3"
+		>
+			<svar value="At blive til grin"/>
+			<svar value="At grine af andre"/>
+			<svar value="At grine sammen med andre"/>
+			<svar value="At tro man bliver til grin"/>
+		</spm>
+		<spm
+		tekst="Angst for ikke at blive set er i virkeligheden"
+		korrekt="1"
+		>
+			<svar value="Angst for ikke at komme på TV"/>
+			<svar value="Angst for at miste sin identitet"/>
+			<svar value="Angst for at ingen ser ens nye tøj"/>
+			<svar value="Angst for at fare vild"/>
+		</spm>
+		<spm
+		tekst="Angst for edderkopper er"
+		korrekt="1"
+		>
+			<svar value="begrundet"/>
+			<svar value="ubegrundet"/>
+			<svar value="angst for ikke at blive set"/>
+			<svar value="angst for at blive til grin"/>
+		</spm>
+		<spm
+		tekst="Samvittighedsangst er"
+		korrekt="0"
+		>
+			<svar value="at bekymre sig for meget"/>
+			<svar value="at bekymre sig for lidt"/>
+			<svar value="at bekymre sig uden at der er grund til det"/>
+			<svar value="at leve et liv uden bekymringer"/>
+		</spm>
+		<spm
+		tekst="Skyldfølelse kommer"
+		korrekt="1"
+		>
+			<svar value="med årene"/>
+			<svar value="i ungdomsårene"/>
+			<svar value="når man får børn"/>
+			<svar value="når man bliver gammel"/>
+		</spm>
+		<spm
+		tekst="Generaliseret angst"
+		korrekt="1"
+		>
+			<svar value="er forbeholdt generaler"/>
+			<svar value="er en psykisk sygdom"/>
+			<svar value="er knyttet til bestemte situationer"/>
+			<svar value="er typisk for husmødre"/>
+		</spm>
+		<spm
+		tekst="Angstformerne findes"
+		korrekt="3"
+		>
+			<svar value="kun hos børn"/>
+			<svar value="kun hos voksne"/>
+			<svar value="kun hos ”normale”"/>
+			<svar value="i forskellige grader"/>
+		</spm>
+	</runde>
+</wrap>

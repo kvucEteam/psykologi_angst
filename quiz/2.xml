@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<wrap>
+
+	<runde>
+		<spm
+		tekst="Vi har to måder at erkende på. Følelse og ? Hvilken af disse muligheder er ikke rigtig:"
+		korrekt="2"
+		>
+			<svar value="Fornuft"/>
+			<svar value="Forstand"/>
+			<svar value="Fakta"/>
+			<svar value="Tænkning"/>
+		</spm>
+		<spm
+		tekst="En emotion eller følelse består af 4 komponenter. Følelsesmæssig, Kognitiv, Fysiologisk, ?"
+		korrekt="2"
+		>
+			<svar value="Intellektuel"/>
+			<svar value="Biologisk"/>
+			<svar value="Adfærdsmæssig"/>
+		</spm>
+		<spm
+		tekst="Selve følelsen er"
+		korrekt="1"
+		>
+			<svar value="at vide, hvad man føler"/>
+			<svar value="en oplevelse"/>
+			<svar value="at opsøge sin elskede"/>
+			<svar value="en hormonel forandring"/>
+		</spm>
+		<spm
+		tekst="Følelsens fysiologiske komponent handler om"
+		korrekt="0"
+		>
+			<svar value="Kroppen"/>
+			<svar value="Hjertet"/>
+			<svar value="Hjernen"/>
+			<svar value="Fysikken"/>
+		</spm>
+		<spm
+		tekst="Det limbiske system er et andet ord for"
+		korrekt="1"
+		>
+			<svar value="Krybdyrhjerne"/>
+			<svar value="Pattedyrhjerne"/>
+			<svar value="Abehjerne"/>
+			<svar value="Menneskehjerne"/>
+		</spm>
+		<spm
+		tekst="Autonom betyder"
+		korrekt="1"
+		>
+			<svar value="Ballademager"/>
+			<svar value="Selvstændig"/>
+			<svar value="Automatisk"/>
+			<svar value="Bilnavn"/>
+		</spm>
+		<spm
+		tekst="Følelsens kognitive komponent dækker over:"
+		korrekt="2"
+		>
+			<svar value="At følelsen sanses"/>
+			<svar value="At følelsen opleves"/>
+			<svar value="At følelsen registreres"/>
+		</spm>
+		<spm
+		tekst="Kognition betyder ikke"
+		korrekt="3"
+		>
+			<svar value="Erkendelse"/>
+			<svar value="Tænkning"/>
+			<svar value="Anvendelse af viden"/>
+			<svar value="Forbrænding"/>
+		</spm>
+		<spm
+		tekst="At en følelse er fortrængt betyder"
+		korrekt="1"
+		>
+			<svar value="At den er glemt"/>
+			<svar value="At den er ubevidst"/>
+			<svar value="At den er uvirkelig"/>
+			<svar value="At den er ubegribelig"/>
+		</spm>
+		<spm
+		tekst="Kognitiv adfærdsterapi handler om"
+		korrekt="1"
+		>
+			<svar value="At ændre følelsen først"/>
+			<svar value="At ændre tankerne først"/>
+			<svar value="At ændre handlingen først"/>
+			<svar value="At ændre holdning først"/>
+		</spm>
+		<spm
+		tekst="Handlingskomponenten handler om"
+		korrekt="3"
+		>
+			<svar value="At købe ind"/>
+			<svar value="At sammensætte handlinger"/>
+			<svar value="At gøre det rigtige"/>
+			<svar value="Motivation"/>
+		</spm>
+		<spm
+		tekst="Der er tre primitive måder at handle på. Hvilken af disse er forkert:"
+		korrekt="3"
+		>
+			<svar value="At flygte"/>
+			<svar value="At stivne"/>
+			<svar value="At kæmpe"/>
+			<svar value="At fortrænge"/>
+		</spm>
+		<spm
+		tekst="Opsummerende kan vi sige om følelser, at de udspiller sig"
+		korrekt="0"
+		>
+			<svar value="I hjernen"/>
+			<svar value="I kroppen"/>
+			<svar value="I virkeligheden"/>
+			<svar value="I tankerne"/>
+		</spm>
+	</runde>
+</wrap>

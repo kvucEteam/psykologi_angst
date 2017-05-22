@@ -1,0 +1,323 @@
+/*
+ *  Description: CSS file which alters the appearence of the Mega Drop Down menu.
+ */
+
+#wrapper960
+{
+    padding-top: 10px;
+}
+
+/*  
+ *  TOPBAR
+ *  Beskrivelse: Topbar er den del af top af siden som viser sitets titel.
+ */
+
+/* Ændre stylen på selve topbar */
+.topbar
+{
+    background: url('/_layouts/images/kvuc/elearning/tp.png') #f8f5f6 repeat-x left bottom;
+    border-top: solid 4px #FFF;
+    height: 54px;
+}
+
+/* Ændre stylen på den del af topbaren som indeholder site titel teksten */
+.topbar .titlerow
+{
+    line-height: 54px;
+}
+
+/* Ændre stylen på selve titlen */
+.topbar .titlerow h1, .topbar .titlerow h1 a
+{
+    color: #16081a;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 30px !important;
+  
+    margin-bottom: 15px;
+}
+
+/*
+ *  Mega Drop Down (MDD)
+ *  Beskrivelse: Ændre al styling vedr. menuen og selve dropdown boksen.
+ */
+
+/* Ændre stylen på den omkringliggende DIV af MDD */
+#mainmenu {
+	background-color: transparent !important;
+	border-bottom: solid 1px #c0bfbf;
+	border-top: solid 1px #808080;
+	width: 960px;
+	height: 39px;
+}
+
+/* Ændre stylen på den anden omkringliggende DIV */
+.mdd 
+{
+    border-bottom: solid 1px #909090;
+    border-top: solid 1px #FFF;
+	height: 37px;
+}
+
+/* Ændre stylen på listen af menupunkter */
+.mdd UL
+{
+    width: auto !important;
+    padding-left: 8px !important;
+    padding-right: 8px !important;
+}
+
+/* Ændre stylen på selve rækken af menupunkter */
+.mdd-topmenu 
+{
+    background: url('/_layouts/images/kvuc/elearning/defaultbg.png') transparent repeat-x left top;
+	color: #3f2646 !important;
+	font-family: Arial !important;
+	font-size: 13px !important;
+	height: 37px;
+}
+
+/* Ændre stylen på selve menupunktet */
+.mdd-topmenu-item 
+{
+	line-height: 37px;
+	padding-top:0px !important;
+	padding-right: 0px !important;
+}
+
+/* En anden style der ændre stylen på selve menupunktet */
+.mdd-topmenu-label
+{
+    color: #a4a0a0 !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+}
+
+/* Ændre stylen på selv menupunktet hvis det er et link */
+.mdd-topmenu-label a
+{
+    /*color: #a4a0a0 !important;*/
+    color: #16081a !important;
+}
+
+/* Ændre stylen på det valgte menupunkt hvis det er et link*/
+.current .mdd-topmenu-label a
+{
+   /* color: #a4a0a0 !important; */
+    color: #16081a !important;
+}
+
+/* Ændre stylen på det valgte menupunkt, samt ændre stylen når man holder musen hen over menupunktet */
+.current, .mdd-topmenu-item-hover
+{
+    background: url('/_layouts/images/kvuc/elearning/current_default.png') transparent repeat-x left top;
+}
+
+/* Ændre stylen på den omkringliggende dropdown DIV */
+.drop
+{
+    background: url('/_layouts/images/kvuc/elearning/c.png') transparent repeat-y left top !important;
+    border: none !important;
+    max-height: 555px !important;
+    padding-top: 0px !important;
+    padding: 0px 8px !important;
+    top: 40px !important;
+    width: 944px; 
+}
+
+/* Ændre stylen for toppen af dropdown boksen */
+.drop .t
+{
+    background: url('/_layouts/images/kvuc/elearning/t.png') #FFF repeat-x left top;
+    height: 35px !important;
+}
+
+/* Ændre stylen for den omkringliggende DIV af indholdet i dropdown boksen */
+.drop .c
+{
+    min-height: 268px !important;
+    max-height: 485px !important;
+    padding: 0px 8px;
+    width: 944px !important;
+}
+
+/* Ændre bunden af dropdown boksen. 
+.drop .b
+{
+    background: url('/_layouts/images/kvuc/elearning/b.png') #FFF no-repeat left bottom;
+    height: 35px !important;
+    margin-left: -8px;
+    margin-bottom: -10px;
+    padding: 0px 8px;
+}*/
+
+/* Ændre stylen på den omkringliggende DIV af indholdet. */
+.content-area
+{
+    min-height: inherit !important;
+    max-height: 485px;
+    padding: 0px 27px !important;
+    width: auto !important;
+}
+
+/* Ændre stylen af alle headings der er af H3 i dropdown boksen */
+.content-area h3
+{
+	color: inherit !important;
+	margin-bottom: 6px !important;
+}
+
+/* Ændre stylen for alle headings i dropdown boksen */
+.mdd-heading
+{
+    padding-top: 0px !important;
+    width: 100% !important;
+}
+
+/*
+ *  CONTENT
+ *  Beskrivelse: Ændre stylen på alle default CssClass i dropdown boksen.
+ */
+
+/* Ændre stylen på Main content blocken */
+.main-content
+{
+    width: 630px;
+}
+
+/* Ændre stylen på hovedtitlen i Main content blocken */
+.main-content-title > A h3, .main-content-title > h3
+{
+    background: url('/_layouts/images/kvuc/elearning/title-bg.png') transparent no-repeat left top;
+    margin-bottom: 27px !important;
+    padding-left: 15px !important;
+    color: #3f2646 !important;
+    font-size: 18px !important;
+    font-weight: bold !important;
+    line-height: 37px !important;
+}
+
+/* Ændre stylen på kolonnen med links i Main content blocken */
+.mddcolumn
+{
+    width: 50% !important;
+}
+
+.pagelist{
+	margin-bottom: 5px;
+}
+
+.pagelist UL
+{
+    margin-bottom: 6px;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+/* Ændre stylen for samtlige undermenupunkter i Main content blocken */
+.pagelist UL > LI
+{
+    margin-bottom: 5px;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    padding-left: 0px !important;
+    width: 266px;
+}
+
+/* Ændre stylen for samtlige links i Main content blocken */
+.pagelist UL LI A
+{
+    background: url('/_layouts/images/kvuc/elearning/dot.png') transparent no-repeat 35px 4px !important;
+    color: #49434b !important; 
+    
+    font-size: 14px;
+    padding-left:55px !important;
+}
+
+.pagelist > A > H3, .pagelist UL LI A
+{
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+}
+
+/* Ændre stylen på hovedgruppe links i Main content blocken */
+.pagelist > A > H3{
+    background: url('/_layouts/images/kvuc/elearning/dot.png') transparent no-repeat 15px 4px !important;
+	color: #49434b !important; 
+    font-size: 15px;
+    padding-left:35px !important;
+}
+
+/* Ændre stylen på links og titler i Main content blocken når man holder musen over */
+.pagelist UL LI A:hover, .pagelist A:hover H3
+{
+    background-color: #a4a0a0  !important;
+    color: #fff !important;
+}
+
+/* Ændre stylen for links i Main content blocken */
+.pagelist UL LI UL LI A, .pagelist UL LI UL LI A H3
+{
+    color: #a4a0a0 !important;
+}
+
+/* Ændre stylen for links i Main content blocken når man holder musen over */
+.pagelist UL LI UL LI A:hover, .pagelist UL LI UL LI A:hover H3
+{
+    color: #fff !important;
+}
+
+/* Ændre stylen for valgte undermenupunkter */
+.pagelist A.currentsub, .pagelist > A.currentsub > H3
+{
+	background-image: url('/_layouts/images/kvuc/elearning/dot-hover.png') !important;
+}
+
+/* META */
+
+/* Ændre stylen for Meta content blocken */
+.meta-content
+{
+    margin-left: 60px;
+    min-height: 115px;
+    width: 200px;
+}
+
+/* Ændre stylen på billeder i Meta content blocken */
+.meta-content img
+{
+    max-width: 200px;
+    max-height: 115px;
+    margin-bottom: 27px;
+}
+
+/* Ændre stylen for titler i Meta content blocken */
+.meta-content-header, .meta-content-header H3
+{
+	color: #a4a0a0  !important;
+	font-size: 13px !important;
+	font-weight: bold !important;
+}
+
+/* Ændre stylen for tekst i Meta content blocken */
+.meta-content-txt, .meta-content-txt H3
+{
+    color: #a4a0a0 !important;
+    font-size: 13px !important;
+    margin: 0px !important;
+    padding: 0px !important;
+    height: 120px !important;
+    overflow: hidden !important;
+}
+
+
+/* Ændre til et andet billede (flag som er lyserødt, hvis man ikke ændrer det) til at markere den aktive side: 
+ ( her ligger det nye flag.png i mappen billeder... ) 
+ Fjern udmarkeringen (/*) for at aktivere...: */
+    
+.pagelist a.currentsub, .pagelist > a.currentsub > h3 {
+background-image: url('/Psykologi__C-B/Angst_og_depression/25/PublishingImages/flag_menupunkter.png') !important;
+}
+
+
+
